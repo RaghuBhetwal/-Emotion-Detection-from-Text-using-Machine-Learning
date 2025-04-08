@@ -6,13 +6,13 @@ This project is a text classification application that uses **Logistic Regressio
 
 ##  Project Highlights
 
-- 🔹 **Dataset:** Emotion Dataset (train/test split)
-- 🔹 **Preprocessing:** Tokenization, Stopword Removal, and Stemming using NLTK
-- 🔹 **Vectorization:** TF-IDF (Term Frequency-Inverse Document Frequency)
-- 🔹 **Model:** Logistic Regression from Scikit-learn
-- 🔹 **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score, Confusion Matrix
-- 🔹 **Interface:** emotion prediction with Streamlit
-- 🔹 **Persistence:** Model and Vectorizer saved using Joblib
+-  **Dataset:** Emotion Dataset (train/test split)
+-  **Preprocessing:** Tokenization, Stopword Removal, and Stemming using NLTK
+-  **Vectorization:** TF-IDF (Term Frequency-Inverse Document Frequency)
+-  **Model:** Logistic Regression from Scikit-learn
+-  **Evaluation Metrics:** Accuracy, Precision, Recall, F1-Score, Confusion Matrix
+-  **Interface:** emotion prediction with Streamlit
+-  **Persistence:** Model and Vectorizer saved using Joblib
 
 ---
 
